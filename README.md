@@ -1,4 +1,4 @@
-# Kickstarter Projects – Machine Learning Project
+# Kickstarter Success Prediction Model – Machine Learning Project
 
 This 4 days project was was in colaboration with Naomi Pletner & Dr. Susan Gritzka during the Data Science Bootcamp at **neue fische** and is intended **solely for educational and portfolio purposes**. It demonstrates the end-to-end process of working with a real-world dataset, from data exploration to model evaluation. 
 
